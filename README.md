@@ -1,5 +1,5 @@
 # modDogPublic
-modDog is a windows application written in-house to communicate with a specific brand of flow meters that us mod-bus communication protocol.
+modDog is a windows application written in-house to communicate with a specific brand of flow meters that use the mod-bus communication protocol.
 
 This program is free to use. No implied warranty and certainly no liability.
 
